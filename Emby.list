@@ -1,5 +1,5 @@
-# 域名关键字匹配
-# DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,jmsuper
-# 域名后缀匹配
-# DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,jmsuper.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,v50.su
+DOMAIN,emby.zn.al
+DOMAIN,cf.gtlx.org
